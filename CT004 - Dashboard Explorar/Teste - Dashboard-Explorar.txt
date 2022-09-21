@@ -1,0 +1,10 @@
+Caso de teste: Procurando um perfil.
+Step1: O usuário de clica na barra de pesquisa.
+Step2: Digita o perfil que está procurando.
+Step3: E clica em cima do Perfil quando aparecer.
+Status: OK.
+
+Caso de teste: Vizualizar o post. 
+Step: O usuário clica em um post.
+Status: OK.
+

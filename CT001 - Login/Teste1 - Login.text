@@ -1,0 +1,15 @@
+Caso de teste: Fazer login. 
+Step: O usuário digita o nome de usuário e senha corretos, e clica em "Entra".
+Status: OK.
+
+Caso de teste: Tentar logar com email ou senha incorreta.
+Step: O usuário digita o nome de usuário ou senha incorreta, e clica em "Entra".
+Status: OK. 
+
+Caso de teste: Tentar logar com usuário inexistente.
+Step: O usuário digita o nome de usuário inexistente e uma senha correta/, e clica em "Entra".
+Status: OK.
+
+Caso de teste: Logar pelo Facebook
+Step: Usuário decide fazer o login pelo Facebook, e clica em "Entrar com o Facebook".
+Status: OK.

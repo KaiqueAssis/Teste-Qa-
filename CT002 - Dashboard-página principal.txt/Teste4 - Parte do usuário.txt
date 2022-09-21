@@ -1,0 +1,3 @@
+Caso de teste: Vizualizando seu perfil
+Step: O usuário clica em cima da foto dele ou nome.
+Status: OK.

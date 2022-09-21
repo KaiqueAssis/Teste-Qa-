@@ -1,0 +1,11 @@
+Caso de teste: Ver todas as Surgestões
+Step: O Usuário clicar "Ver tudo".
+Status: OK.
+
+Caso de teste: Ver perfil dos usuários pelas sugestões
+Step: O usuário clica em cima da foto ou nome do perfil.
+Status: OK.
+
+Caso de teste: Seguindo um perfil
+Step: O Usuáario clica em "seguir" do lado direito do perfil.
+Status: OK.

@@ -1,0 +1,8 @@
+
+Caso de teste: Acessando um story.
+Step: O usuário clica em cima da foto de perfil de uma pessoa que tem um circulo ao redor. 
+Status: OK.
+
+Caso de teste: Acessando live
+Step: O usuário clica, em cima da foto de perfil com simbolo colorido ao redor, e o nome "ao vivo".
+Status: OK.

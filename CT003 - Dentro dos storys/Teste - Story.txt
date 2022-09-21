@@ -1,0 +1,33 @@
+Caso de teste: Pausando Story.
+Step: O usuário clica no botão de pause.
+Status: OK.
+
+Caso de teste: Ouvir o conteudo dos story ou deixar mudo.
+Step: O usuário clica na caixinha com desenho de uma caixa de som.
+Status: OK.
+
+Caso de teste: Denunciar Story.
+Step1: Clique na 3 bolinhas no canto superior direito.
+Step2: Clique em selecionar conteúdo inadequado.
+Step3: E escolha o motivo.
+Status: OK.
+
+Caso de teste: Passar ou voltar um story.
+Step: Usuário clique, em uma das setas que estão na esquerda (Voltar) ou direita (Avança).
+Status: OK.
+
+Caso de teste: Manda um comentário para o direct pelo story.
+Step1: O usuário clica na barra onde está escrito, Responder a "perfil da pessoa que é dos storys".
+Step2: Comenta alguma coisa.
+Step3: CLica no Botão "Enviar".
+Status: OK.
+
+Caso de teste: Curtindo um story.
+Step: O usuário clica no coração.
+Status: OK.
+
+Caso de teste: Compartilhando Story.
+Step1: O usuário clica no aviãozinho de papel.
+Step2: Selciona para quais perfis você que mandar.
+Step3: Clica no botão "Enviar".
+Status: OK.

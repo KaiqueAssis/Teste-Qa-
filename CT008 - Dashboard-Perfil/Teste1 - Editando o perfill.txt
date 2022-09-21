@@ -1,0 +1,23 @@
+Caso de teste: Mudando nome do perfil
+Step1: Clique no botão "Editar perfil".
+Step2: Mude o Campo nome de usuário para o desejado e permitido.
+Step3: Clique no botão enviar.
+Status: OK.
+
+Caso de teste: Mudando Biografia.
+Step1: Clique no botão "Editar perfil".
+Step2: Mude o Campo Biografia para o desejado e permitido.
+Step3: Clique no botão enviar.
+Status: OK.
+
+Caso de teste: Mudando nome
+Step1: Clique no botão "Editar perfil".
+Step2: Mude o Campo "Nome" para o desejado e permitido.
+Step3: Clique no botão enviar.
+Status: OK.
+
+Caso de teste: Deixando o perfil privado.
+Step1: CLique em "Editar perfil" ou na engranagem ao lado.
+Step2: Clique em Privacidade e segurança.
+Step3: Marca a caixa Conta privada.
+Status: OK.

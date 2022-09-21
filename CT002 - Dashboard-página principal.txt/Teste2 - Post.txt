@@ -1,0 +1,49 @@
+Caso de teste: Visualiza perfil resumido de outro usuário.
+Step: O usuário deixa o mousse encima do perfil da pessoa pelo post.
+Status: OK.
+
+Caso de teste: Visualiza o perfil de outro usuário
+Step: O usuário clica em cima da foto ou nome do perfil de outro usuário.
+Status: OK.
+
+Caso de teste: Denunciar Post
+Step1: O usuário clica em cima das 3 bolinhas.
+Step2: Depois clica em Denunciar.
+Step3: E coloca o motivo por que estar denunciando. 
+Status: OK.
+
+Caso de teste: Dar like em uma publicação.
+Step: O Usuário clica no botão em formato de coração.
+Status: OK.
+
+Caso de teste: Colocar comentário
+Step1: Clica na barra onde tem "Adicione um comentário"
+Step2: Coloca o comentário.
+Step3: Clica no botão "Publicar".
+Status: OK.
+
+Caso de teste: Compartilhando um post
+Step1: O usuário clica no aviãozinho de papel.
+Step2: E seleciona para quais perfis ela quer compartilhar a publicação.
+Step3: E clica no botão "Enviar".
+Status: OK.
+
+Caso de teste: Salvando um post.
+Step: O usuário clica na bandeira no canto inferior direito.
+Status: OK.
+
+Caso de teste: Vizualizando um curtiu um Post.
+Step:  O usuário clica ao lado de "Curtido Por".
+Status: OK.
+
+Caso de teste: Ver descrição de um post completa.
+Step: O usuário clica em "mais" em uma descrição.
+Status: OK.
+
+Caso de teste: O usuário clica na parte de "Ver todos os x comentários".
+Resposta esperada: Aparece a tela com todos os comentários.
+Status: OK.
+
+Caso de teste: Traduzir a descrição do posto.
+Step: O usuário clica no link "Ver tradução" para Traduzir o Post.
+Status: OK.

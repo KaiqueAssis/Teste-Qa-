@@ -1,0 +1,41 @@
+
+Caso de teste: Mandando mensagem para uma conversa já criada.
+Step1: Clique em uma conversa.
+Step2: Clique na barra "Mensagem..."
+Step3: Escreva algo.
+Step4: Clique em Enviar.
+Status: OK.
+
+Caso de teste: Mandando mensagem para quem não tem uma conversa aberta.
+Step1: Clique no botão ao lado direito do seu nome.
+Step2: Selecione a pessoa para quem você quer mandar msg.
+Step3: CLique em "Avança"
+Status: OK.
+
+Caso de teste: Enviando uma imagem/video.
+Step1: Clique na caixa com o desenho da paisagem.
+Step2: Seleciona uma imagem ou video.
+Step3: Clique em abrir.
+Status: OK.
+
+Caso de teste: Criando Grupo.
+Step1: Clique no botão ao lado direito do seu nome.
+Step2: Selecione as pessoas para que você quer que participem do grupo.
+Step3: CLique em "Avança"
+Status: OK.
+
+Caso de teste: Fazendo chamada de voz.
+Step1: Clique na conversa da pessoa que você quer ligar.
+Step2: Clique no botão com o desenho de um telefone.
+Step3: Espera ele/ela atender.
+Status: OK.
+
+Caso de teste: Fazendo chamada de video.
+Step1: Clique na conversa da pessoa que você quer ligar.
+Step2: Clique no botão com o desenho de um câmera.
+Step3: Espera ele/ela atender.
+Status: OK.
+
+Caso de teste: Reagindo a uma mensagem.
+Step: Clique 2 vezes na mensagem que você quer reagir.
+Status: OK.

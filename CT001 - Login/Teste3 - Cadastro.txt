@@ -1,0 +1,11 @@
+Caso de teste: Criar uma conta no Instagram
+Step1: Clique Cadastre-se
+Step2: Coloque o número de celular ou email
+Step3: Coloque o nome completo
+Step4: Coloque o nome de usuário
+Step5: Coloque a senha.
+Step6: Clique botão "Cadastre-se"
+Step7: Coloque o número que mandaram para o seu Email.
+Step8: Clique em verificar.
+Step9: Coloque nome de usuário.
+Status: OK.

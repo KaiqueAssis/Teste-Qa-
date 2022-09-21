@@ -1,0 +1,7 @@
+Caso de teste: Vendo comentario no seu post.
+Step: Clica na notificação onde aparece que alguem comentou em seu post.
+Status: OK.
+
+Caso de teste: Pessoas que te marcaram.
+Step: Clica na notificação onde alguem te marcou.
+Status: OK.

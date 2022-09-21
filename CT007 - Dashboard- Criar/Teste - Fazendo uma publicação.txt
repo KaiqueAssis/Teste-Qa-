@@ -1,0 +1,12 @@
+Caso de teste: Criando post.
+Step1: Clique em criar.
+Step2: Clique Selecionar do Computador.
+Step3: Escolha a imagem.
+Step4: Clique em abrir.
+Step5: Ajuste a Imagem.
+Step6: Clique em Avança.
+Step7: Edite a foto.
+Step8: Clique em avança.
+Step9: Coloca uma legenda caso queira. e localização.
+Step10: Clique em compartilhar. 
+Status: OK.

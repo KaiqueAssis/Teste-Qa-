@@ -1,0 +1,11 @@
+Caso de teste: Baixar o app para IOS. 
+Step1: O usuário clica no botão "Baixar na App Store"
+Step2: Clica em baixar caso esteja pelo iphone.
+Status: OK.
+
+Caso de teste: Baixar o app para Android
+Step1: O usuário clica no botão "Disponível na Google Play".
+Step2: Clica em "Instalar em outro dispositivo".
+Step3: Selciona o dispositivo.
+Step4: Clica no botão Instalar.
+Status: OK.

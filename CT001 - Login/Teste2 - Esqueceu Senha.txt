@@ -1,0 +1,3 @@
+Caso de teste: Logar pelo Facebook
+Step: Usuário decide fazer o login pelo Facebook, e clica em "Entrar com o Facebook".
+Status: OK.
