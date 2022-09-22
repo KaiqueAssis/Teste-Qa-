@@ -1,3 +1,12 @@
 # Teste-Qa-
 
-Obs: Primeiro teste de Qa, que fiz meu relatório não achei muito bom por conta que nunca vi nem fiz um relatório técnico, no caso esse foi o meu primeiro com certeza a muito que melhor mas na questão dos teste como foram meus primeiros achei muito bom e bastante satisfatório sei que tenho que melhorar bastante mais realmente gostei de fazer o teste. 
+Teste de Qa para vaga de estágio, na Nucleus. 
+
+Plataforma escolhida Instagram web.
+
+Teste em caixa preta feita em .txt.
+
+Relatório feito em word salvo em pdf. (básico).
+
+
+
